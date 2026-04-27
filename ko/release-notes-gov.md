@@ -1,6 +1,39 @@
 <a id="compute-release-notes"></a>
 ## Compute > 릴리스 노트
 
+<a id="april-28-2026"></a>
+### 2026. 04. 28.
+#### Image
+
+* 신규 이미지 추가
+    * Ubuntu Server 22.04.5 LTS for Deep Learning v8.0.0(2026.04.28.)
+    * Ubuntu Server 22.04.5 LTS for Deep Learning v7.0.1(2026.04.28.)
+    * Rocky Linux 8.10 with Tibero 7 Enterprise 294582(2026.04.28.)
+    * Rocky Linux 8.10 with Tibero 7 Standard 294582(2026.04.28.)
+    * Rocky Linux 9.7 with Tibero 7 Enterprise 294582(2026.04.28.)
+    * Rocky Linux 9.7 with Tibero 7 Standard 294582(2026.04.28.)
+    * Ubuntu Server 24.04.5 LTS with MySQL 8.0.45(2026.04.28.)
+    * Ubuntu Server 24.04.5 LTS with CUBRID 11.4.4(2026.04.28.)
+    * Ubuntu Server 24.04.5 LTS with CUBRID 10.2.17(2026.04.28.)
+    * Ubuntu Server 24.04.5 LTS with Valkey 8.1.6(2026.04.28.)
+    * Ubuntu Server 24.04.5 LTS with PostgreSQL 17(2026.04.28.)
+    * Ubuntu Server 24.04.3 LTS with Apache Kafka 3.9.2(2026.04.28.)
+    * Ubuntu Server 24.04.3 LTS with MariaDB 10.11.7(2026.04.28.)
+
+* 이미지 지원 종료
+    * Ubuntu Server 22.04.5 LTS for Deep Learning v6.0.1(2025.07.15.)
+    * Ubuntu Server 22.04.5 LTS for Deep Learning v7.0.0(2025.10.28.)
+    * Rocky Linux 8.10 with Tibero 7 Enterprise 294582(2025.07.15.)
+    * Rocky Linux 8.10 with Tibero 7 Standard 294582(2025.07.15.)
+    * Rocky Linux 9.5 with Tibero 7 Enterprise 294582(2025.07.15.)
+    * Rocky Linux 9.5 with Tibero 7 Standard 294582(2025.07.15.)
+    * Ubuntu Server 22.04.5 LTS with Apache Kafka 3.6.1(2025.07.15.)
+    * Ubuntu Server 22.04.5 LTS with CUBRID 10.2.14(2025.07.15.)
+    * Ubuntu Server 22.04.5 LTS with CUBRID 11.0.13(2025.07.15.)
+    * Ubuntu Server 22.04.5 LTS with MariaDB 10.11.7(2025.07.15.)
+    * Ubuntu Server 22.04.5 LTS with MySQL 8.0.36(2025.07.15.)
+    * Ubuntu Server 22.04.5 LTS with PostgreSQL 15(2025.07.15.)
+
 <a id="march-10-2026"></a>
 ### 2026. 03. 10.
 #### Image
